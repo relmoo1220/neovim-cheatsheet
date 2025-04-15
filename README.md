@@ -9,6 +9,14 @@
 - `/<search-term>` press enter and you can use `n` to find next occurance of search term or `N` to find previous occurance of search term
 ---
 
+### Insert
+- `i` enter insert mode, will insert before the cursor
+- `o` enter insert mode, will create a new line below cursor
+- `a` enter insert mode, append after the cursor
+- `O` enter inside mode, will create a new line above cursor
+
+---
+
 ### Copy
 - `yy` copy line, first `y` represents the start you want to copy then the second `y` represents the end you want to copy
 - `:%y+` copy the entire file
