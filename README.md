@@ -66,3 +66,10 @@
 - `:wq` quit and save
 - `ZZ` save and quit
 - `ZQ` quit without saving
+
+---
+
+### Neotree / Telescope
+- `<leader> ff` opens up telescope to search for files and `ctrl-c or esc` to exit telescope
+- `<leader> e` closes the collapse the sidebar neotree
+- `:cd <path>` you can cd inside neovim
