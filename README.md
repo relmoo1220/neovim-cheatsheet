@@ -81,3 +81,10 @@
 - `<leader> ff` opens up telescope to search for files and `ctrl-c or esc` to exit telescope
 - `<leader> e` closes the collapse the sidebar neotree
 - `:cd <path>` you can cd inside neovim
+- `ctrl + w + h` moves left
+- `ctrl + w + l` moves right
+
+---
+
+### Buffers
+- `<leader> b` opens up the settings for switching between buffers
